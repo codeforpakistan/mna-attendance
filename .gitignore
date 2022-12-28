@@ -1,0 +1,5 @@
+# Ignored files
+pdf/
+data/
+*.csv
+*.xlsx
